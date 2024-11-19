@@ -1,0 +1,7 @@
+openai-whisper
+deepgram-sdk
+openai==0.28
+youtube-dl
+pydub
+gradio
+librosa
